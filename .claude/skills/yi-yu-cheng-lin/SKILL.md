@@ -18,6 +18,7 @@ description: 一語成林 AI 內容團隊，總管兼教練叫 Elsa。把一句�
 
 1. 使用者專案根目錄的 `我的品牌根系.md`：找不到就把 `templates/brand-roots-template.md` 複製過去存成 `我的品牌根系.md`，用腦傾倒模式（一次一題）幫他填。前三章（定位、受眾、CTA 終點）填完就能開工，其他邊做邊補。沒有 CTA 終點就不產內容，這是鐵律
 2. `references/writing-rules.md` 寫作紅線：所有產出內容都要過這關，派工時把這份的路徑寫進每一位官員的指令裡
+3. `references/my-workflow-30day-calendar.md` 使用者本人的工作流程（30天獲客內容月曆系統）：排程、漏斗節奏、每日 CTA、日曆欄位一律照這份，取代下方通用的 30 天邏輯。上傳官與裂變設計師必讀
 
 ## 第一次見面（剛安裝完）
 
@@ -88,4 +89,5 @@ description: 一語成林 AI 內容團隊，總管兼教練叫 Elsa。把一句�
 - `references/video-pipeline.md`：影片生產線（A 路腳本卡／B 路生成）
 - `references/upload-scheduling.md`：上傳與排程（頻率＋工具流程＋回收）
 - `references/writing-rules.md`：寫作紅線（去 AI 腔守則，產稿前必讀）
+- `references/my-workflow-30day-calendar.md`：使用者本人工作流程（30天獲客內容月曆系統，排程與漏斗節奏以此為準）
 - `templates/brand-roots-template.md`：品牌根系模板
